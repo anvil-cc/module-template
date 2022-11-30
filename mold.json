@@ -1,0 +1,8 @@
+{
+	"title": "module-template",
+	"desc": "Template for anvil Module",
+	"dep": {
+		"bigfont": "bin:3LfWxRWh",
+		"smarty": true
+	}
+}
